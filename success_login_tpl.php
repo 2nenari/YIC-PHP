@@ -107,6 +107,7 @@
 
                 <form action = "./add.php">
                     <button class = "btn">新規</button>
+                    <button class = "btn">変更</button>
                 </form>
             </body>
         </html>
